@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace DesignPatterns\AbstractFactory\Core\LinuxUI;
+namespace DesignPatterns\AbstractFactory\LinuxUI;
 
 use DesignPatterns\AbstractFactory\Core\Button;
 

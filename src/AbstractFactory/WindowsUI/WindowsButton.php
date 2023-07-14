@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace DesignPatterns\AbstractFactory\Core\WindowsUI;
+namespace DesignPatterns\AbstractFactory\WindowsUI;
 
 use DesignPatterns\AbstractFactory\Core\Button;
 
