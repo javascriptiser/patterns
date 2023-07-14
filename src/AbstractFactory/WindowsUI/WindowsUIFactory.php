@@ -1,16 +1,16 @@
 <?php
 declare(strict_types=1);
 
-namespace DesignPatterns\AbstractFactory\Core\LinuxUI;
+namespace DesignPatterns\AbstractFactory\WindowsUI;
 
 use DesignPatterns\AbstractFactory\Core\Button;
 use DesignPatterns\AbstractFactory\Core\GuiFactory;
 
-class LinuxUIFactory implements GuiFactory
+class WindowsUIFactory implements GuiFactory
 {
 
     public function createButton(): Button
     {
-        return new LinuxButton();
+        return new WindowsButton();
     }
 }

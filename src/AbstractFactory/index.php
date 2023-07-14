@@ -3,8 +3,8 @@ declare(strict_types=1);
 
 
 use DesignPatterns\AbstractFactory\App;
-use DesignPatterns\AbstractFactory\Core\LinuxUI\LinuxUIFactory;
-use DesignPatterns\AbstractFactory\Core\WindowsUI\WindowsUIFactory;
+use DesignPatterns\AbstractFactory\LinuxUI\LinuxUIFactory;
+use DesignPatterns\AbstractFactory\WindowsUI\WindowsUIFactory;
 
 echo "AbstractFactory design pattern </br>";
 
