@@ -8,4 +8,6 @@ require_once "./src/AbstractFactory/index.php";
 echo "</br>";
 require_once "./src/FactoryMethod/index.php";
 echo "</br>";
+require_once "./src/Adapter/index.php";
+echo "</br>";
 require_once "./src/Bridge/index.php";
