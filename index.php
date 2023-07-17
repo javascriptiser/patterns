@@ -13,3 +13,5 @@ echo "</br>";
 require_once "./src/Bridge/index.php";
 echo "</br>";
 require_once "./src/Composite/index.php";
+echo "</br>";
+require_once "./src/Decorator/index.php";
