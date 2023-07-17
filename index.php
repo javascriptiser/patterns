@@ -21,3 +21,5 @@ echo "</br>";
 require_once "./src/Facade/index.php";
 echo "</br>";
 require_once "./src/FlyWeight/index.php";
+echo "</br>";
+require_once "./src/Strategy/index.php";
