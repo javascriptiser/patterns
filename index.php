@@ -19,3 +19,5 @@ echo "</br>";
 require_once "./src/Proxy/index.php";
 echo "</br>";
 require_once "./src/Facade/index.php";
+echo "</br>";
+require_once "./src/FlyWeight/index.php";
